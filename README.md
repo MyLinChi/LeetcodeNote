@@ -15,6 +15,6 @@ I will write something about my coding on leetcode!!!
 |17. 电话号码的字母组合|<https://github.com/MyLinChi/LeetcodeNote/issues/9>|
 |18. 四数之和|<https://github.com/MyLinChi/LeetcodeNote/issues/10>|
 |19. 删除链表的倒数第N个节点|<https://github.com/MyLinChi/LeetcodeNote/issues/11>|
-|20. 有效的括号|<https://github.com/MyLinChi/LeetcodeNote/issues>|
+|20. 有效的括号|<https://github.com/MyLinChi/LeetcodeNote/issues/12>|
 |21. 合并两个有序链表|<https://github.com/MyLinChi/LeetcodeNote/issues/13>|
 |22. 括号生成*|<https://github.com/MyLinChi/LeetcodeNote/issues/14>|
